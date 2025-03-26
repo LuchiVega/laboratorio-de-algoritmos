@@ -1,4 +1,0 @@
-A) 0.2 + 0.1 = 0.30000000000000004
-B) 3 * 0.1 = 0.30000000000000004
-
-no fue el resultado que esperaba porque termina en 4 y no tiene sentido tendria que terminar en 0
