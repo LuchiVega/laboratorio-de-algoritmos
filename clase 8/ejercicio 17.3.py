@@ -1,0 +1,1 @@
+lugares_favoritos = {"fabri": ["plaza", "cancha de independiente", "su casa"] "agus": []}
